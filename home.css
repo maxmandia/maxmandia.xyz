@@ -1,0 +1,35 @@
+* {
+  background-color: #3d3834;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  width: 85%;
+  color: white;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: underline;
+  color: white;
+}
+
+#musicplace {
+  margin-top: 2rem;
+  line-height: 1.6;
+}
+
+#work {
+  margin-top: 1rem;
+  line-height: 1.6;
+}
+
+p {
+  font-size: 1.1rem;
+}
